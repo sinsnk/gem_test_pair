@@ -72,4 +72,8 @@ DEPENDENCIES
   rake (~> 10.0)
 
 BUNDLED WITH
+<<<<<<< HEAD
    1.10.5
+=======
+   1.10.3
+>>>>>>> add_code
