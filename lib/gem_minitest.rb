@@ -1,6 +1,6 @@
 require "gem_minitest/version"
 
-module GemMinitest
+module GemMiniTest
   class Main
     def odd?(n)
       n % 2 == 1 
